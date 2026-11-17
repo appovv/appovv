@@ -22,17 +22,17 @@
 <a href="https://www.credly.com/earner/earned/badge/42a7d438-0e99-46ba-bc84-9547d3342574"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxX80yCEQJuOWw0FYEKm-T2xslVbnwnQXQK1_6RiqgHfOTg4ZQVp-Qx5LRljVRR-rK9IA&usqp=CAU" width="150" alt="Networking Academy Learn-A-Thon 2024 badge"/></a>
 
 # 💽 Software & Programs:
-<a href="https://visualstudio.microsoft.com/vs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="70" alt="Visual Studio 2022 logo"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="70" alt="Visual Studio Code logo"/></a>
-<a href="https://www.jetbrains.com/rider/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/2048px-JetBrains_Rider_Icon.svg.png" height="70" alt="JetBrains Rider logo"/></a>
-<a href="https://www.jetbrains.com/clion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2048px-Clion.svg.png" height="70" alt="JetBrains CLion logo"/></a>
-<a href="https://www.jetbrains.com/datagrip/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" height="70" alt="JetBrains DataGrip logo"/></a>
+<a href="https://visualstudio.microsoft.com/vs/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/250px-Visual_Studio_Icon_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="Visual Studio 2022 logo"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/330px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="Visual Studio Code logo"/></a>
+<a href="https://www.jetbrains.com/rider/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/500px-JetBrains_Rider_Icon.svg.png?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail" height="70" alt="JetBrains Rider logo"/></a>
+<a href="https://www.jetbrains.com/clion/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/500px-Clion.svg.png?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail" height="70" alt="JetBrains CLion logo"/></a>
+<a href="https://www.jetbrains.com/datagrip/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/500px-DataGrip.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="JetBrains DataGrip logo"/></a>
 <a href="https://www.jetbrains.com/toolbox-app/"><img src="https://samuraism.com/wp-content/uploads/2021/08/icon-toolbox.png" height="70" alt="JetBrains Toolbox logo"/></a>
 <a href="https://github.com/"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" height="70" alt="Github"/></a>
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="70" alt="Git"/></a>
-<a href="https://replit.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png" height="70" alt="Replit logo"/></a>
+<a href="https://git-scm.com/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/500px-Git-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="Git"/></a>
+<a href="https://replit.com/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/330px-New_Replit_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="Replit logo"/></a>
 <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="70" alt="SSMS logo"/></a>
-<a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="70" alt="Figma logo"/></a>
+<a href="https://www.figma.com/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/250px-Figma-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height="70" alt="Figma logo"/></a>
 <a href="https://dragonbones.github.io/en/index.html"><img src="https://dragonbones.github.io/en/img/logo512.png" height="70" alt="DragonBones logo"/></a>
 
 # 📊 GitHub Stats:
