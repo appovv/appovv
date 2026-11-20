@@ -37,11 +37,22 @@
 <a href="https://dragonbones.github.io/en/index.html"><img src="https://dragonbones.github.io/en/img/logo512.png" height="70" alt="DragonBones logo"/></a>
 
 # 📊 GitHub Stats:
-‎<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=ATPopov21&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ATPopov21&theme=github_dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ATPopov21&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
+<table>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h3>My current account's statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=appovv&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=appovv&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appovv&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="left" valign="top" width="50%">
+      <h3>My older account's statistics <a href="https://github.com/atpopov21">(<i>atpopov21</i>)</a></h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ATPopov21&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATPopov21&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATPopov21&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ATPopov21&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
